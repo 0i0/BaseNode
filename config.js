@@ -1,4 +1,4 @@
-var Config = module.exports = function Config(debug) {
+module.exports = function Config(debug) {
   var config =
     { dev :
       { debug : true
