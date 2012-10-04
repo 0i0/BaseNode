@@ -6,7 +6,7 @@ var Config = module.exports = function Config(debug) {
             ,sessionSecret : '50m35ecr3t'
             },
     prod :  {debug : false
-            ,orign : 'http://chordify.herokuapp.com'
+            ,orign : 'http://SOMEAPP.herokuapp.com'
             ,port:process.env.PORT
             ,sessionSecret : '50m35ecr3t'
             }
