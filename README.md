@@ -19,4 +19,4 @@ This is my base setup to build node/heroku apps
 
 ## Deploy
     
-    $ git push heroku master
+    git push heroku master
