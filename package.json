@@ -1,13 +1,12 @@
-{
-  "name": "BaseNode",
-  "version": "0.0.1",
-  "description": "Node app template",
-  "engines": {
-    "node": "0.6.x",
-    "npm":  "1.0.x"
-  },
-  "author": "Leo <0@0i0.io>",
-  "dependencies": {
-    "express": ">=0.0.1"
+{ "name": "BaseNode"
+, "version": "0.0.1"
+, "description": "Node app template"
+, "author": "Leo <0@0i0.io>"
+, "engines": 
+    { "node": "0.6.x"
+    , "npm":  "1.0.x"
+    }
+, "dependencies": 
+  { "express": ">=0.0.1"
   }
 }
