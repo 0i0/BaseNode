@@ -19,7 +19,7 @@ Visit [http://localhost:8000](http://localhost:8000)
 
 ## Creating Heroku App
 
-    heroku app:create APPNAME
+    heroku apps:create APPNAME
 
 ## Deploy
     
